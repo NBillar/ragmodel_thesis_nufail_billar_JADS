@@ -1,7 +1,7 @@
 
 # RAG Model Pipeline
 
-This repository contains the implementation of a modular, production-grade Retrieval-Augmented Generation (RAG) pipeline. The system integrates document ingestion, hybrid retrieval, reranking, context-grounded response generation, and evaluation into a cohesive framework, with support for real-world deployments including SharePoint integration and advanced provenance tracking.
+This repository is built untop of the RAGMEUP repo, it contains the implementation of a modular, production-grade Retrieval-Augmented Generation (RAG) pipeline. The system integrates document ingestion, hybrid retrieval, reranking, context-grounded response generation, and evaluation into a cohesive framework, with support for real-world deployments including SharePoint integration and advanced provenance tracking.
 
 ## Table of Contents
 

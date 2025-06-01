@@ -83,7 +83,7 @@ uvicorn server:app --reload
 ## Directory Structure
 
 ```
-ragmodel_thesis_nufail_billar_JADS/
+ragmodel_thesis_nufail_billar_JADS/server
 ├── RAGHelper.py                # Core RAG functionality (retrieval, reranking)
 ├── RAGHelper_local.py          # Local ingestion with SharePoint integration
 ├── llm_loader.py               # Modular LLM loading

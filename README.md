@@ -14,7 +14,7 @@ This repository is built untop of the [RAGMEUP](https://github.com/FutureClubNL/
 - [Evaluation](#evaluation)
 - [Directory Structure](#directory-structure)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
